@@ -1,0 +1,5 @@
+why Node.js?
+    .node js is an open source and cross platform runtime environment for executing javascript code outside of a browser.
+    .we use node to build backend services also called API's 
+    .node is easy to get started and can be used for prototyping and agile development ,
+    .in short node js works on model of asynchronous process, node js is made up of combining google's v8 engine and c++ , there fore it acts as an virtual env for processing javascript code for both client and server side applications
